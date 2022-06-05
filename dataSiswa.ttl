@@ -1,0 +1,286 @@
+@prefix id: <https://portalpsikologi.com/> .
+@prefix person: <https://portalpsikologi.com/ns/person#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rid:Af-syntax-ns#> .
+
+#Users
+id:A001
+    person:nisn         "9900012345" ;
+    person:namaSekolah  "SMAN 2 Kuningan" ;
+    person:namaSiswa    "Nadine Annisa Heartman" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Ciamis, 24 Februari 2001" ;
+    person:rtsSatu      "90.67" ;
+    person:rtsDua       "87.33" ;
+    person:rtsTiga      "95.67" ;
+    person:rtsEmpat     "88.83" ;
+    person:rtsLima      "92.83" ;
+    person:jumlahRtn    "91.07" ;
+    person:keterangan   "Memenuhi" .
+
+
+id:A002
+    person:nisn         "9900067891" ;
+    person:namaSekolah  "SMAN 1 Kuningan" ;
+    person:namaSiswa    "Dea Amelia Putri" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Kuningan, 2 Juni 2001" ;
+    person:rtsSatu      "81.33" ;
+    person:rtsDua       "82.67" ;
+    person:rtsTiga      "88.83" ;
+    person:rtsEmpat     "83.33" ;
+    person:rtsLima      "86.67" ;
+    person:jumlahRtn    "84.57" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A003
+    person:nisn         "9900010111" ;
+    person:namaSekolah  "SMAN 3 Kuningan" ;
+    person:namaSiswa    "Athaya Haura Khaerunnisa" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Kuningan, 12 Februari 2001" ;
+    person:rtsSatu      "81.83" ;
+    person:rtsDua       "80.33" ;
+    person:rtsTiga      "87.77" ;
+    person:rtsEmpat     "86.67" ;
+    person:rtsLima      "80.83" ;
+    person:jumlahRtn    "83.49" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A004
+    person:nisn         "9900013141" ;
+    person:namaSekolah  "SMAN 3 Kuningan" ;
+    person:namaSiswa    "Aditya Dwi Halimantono" ;
+    person:jk           "Laki - Laki" ;
+    person:ttl          "Semarang, 29 Juli 2001" ;
+    person:rtsSatu      "80.00" ;
+    person:rtsDua       "82.33" ;
+    person:rtsTiga      "83.67" ;
+    person:rtsEmpat     "84.33" ;
+    person:rtsLima      "85.83" ;
+    person:jumlahRtn    "83.23" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A005
+    person:nisn         "9900016171" ;
+    person:namaSekolah  "SMAN 2 Kuningan" ;
+    person:namaSiswa    "Nadlif Zeidan Bashirah" ;
+    person:jk           "Laki - Laki" ;
+    person:ttl          "Cirebon, 25 Desember 2000" ;
+    person:rtsSatu      "83.33" ;
+    person:rtsDua       "84.00" ;
+    person:rtsTiga      "84.67" ;
+    person:rtsEmpat     "86.33" ;
+    person:rtsLima      "85.67" ;
+    person:jumlahRtn    "84.80" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A006
+    person:nisn         "9900019202" ;
+    person:namaSekolah  "SMAN 2 Kuningan" ;
+    person:namaSiswa    "Fazlur Faris" ;
+    person:jk           "Laki - Laki" ;
+    person:ttl          "Bandung, 5 Maret 2001" ;
+    person:rtsSatu      "85.33" ;
+    person:rtsDua       "87.33" ;
+    person:rtsTiga      "88.83" ;
+    person:rtsEmpat     "90.67" ;
+    person:rtsLima      "92.67" ;
+    person:jumlahRtn    "88.97" ;
+    person:keterangan   "Memenuhi" .
+
+id:A007
+    person:nisn         "9900022232" ;
+    person:namaSekolah  "SMAN 1 Kuningan" ;
+    person:namaSiswa    "Muhammad Nadillah Izazi" ;
+    person:jk           "Laki - Laki" ;
+    person:ttl          "Jakarta, 15 Mei 2001" ;
+    person:rtsSatu      "83.67" ;
+    person:rtsDua       "84.67" ;
+    person:rtsTiga      "85.33" ;
+    person:rtsEmpat     "83.83" ;
+    person:rtsLima      "82.67" ;
+    person:jumlahRtn    "84.03" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A008
+    person:nisn         "9900025262" ;
+    person:namaSekolah  "SMAN 3 Kuningan" ;
+    person:namaSiswa    "Maghfira Azzahra" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Kuningan, 10 Oktober 2001" ;
+    person:rtsSatu      "83.00" ;
+    person:rtsDua       "84.33" ;
+    person:rtsTiga      "87.67" ;
+    person:rtsEmpat     "83.83" ;
+    person:rtsLima      "86.00" ;
+    person:jumlahRtn    "84.97" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A009
+    person:nisn         "9900028293" ;
+    person:namaSekolah  "SMA ITUS Kuningan" ;
+    person:namaSiswa    "Zalzala Nur El Fauzah" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Kuningan, 22 Februari 2001" ;
+    person:rtsSatu      "82.87" ;
+    person:rtsDua       "83.67" ;
+    person:rtsTiga      "89.33" ;
+    person:rtsEmpat     "89.00" ;
+    person:rtsLima      "87.67" ;
+    person:jumlahRtn    "86.51" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A010
+    person:nisn         "9900031323" ;
+    person:namaSekolah  "SMAN 1 Kuningan" ;
+    person:namaSiswa    "Riesma Yulianty Dwi Utami" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Bandung, 3 Juli 2001" ;
+    person:rtsSatu      "85.33" ;
+    person:rtsDua       "87.00" ;
+    person:rtsTiga      "89.00" ;
+    person:rtsEmpat     "90.83" ;
+    person:rtsLima      "93.67" ;
+    person:jumlahRtn    "89.17" ;
+    person:keterangan   "Memenuhi" .
+
+id:A011
+    pperson:nisn         "9900034353" ;
+    person:namaSekolah  "SMAN 3 Kuningan" ;
+    person:namaSiswa    "Bachtiar Ramadhan" ;
+    person:jk           "Laki - Laki" ;
+    person:ttl          "Cirebon, 15 Juni 2001" ;
+    person:rtsSatu      "91.00" ;
+    person:rtsDua       "90.83" ;
+    person:rtsTiga      "88.67" ;
+    person:rtsEmpat     "89.00" ;
+    person:rtsLima      "90.33" ;
+    person:jumlahRtn    "89.97" ;
+    person:keterangan   "Memenuhi" .
+
+id:A012
+    pperson:nisn         "9900037383" ;
+    person:namaSekolah  "SMAN ITUS Kuningan" ;
+    person:namaSiswa    "Farhan Taufiqurrahman" ;
+    person:jk           "Laki - Laki" ;
+    person:ttl          "Kuningan, 28 Desember 2000" ;
+    person:rtsSatu      "80.83" ;
+    person:rtsDua       "85.87" ;
+    person:rtsTiga      "90.33" ;
+    person:rtsEmpat     "93.00" ;
+    person:rtsLima      "95.33" ;
+    person:jumlahRtn    "89.07" ;
+    person:keterangan   "Memenuhi" .
+
+id:A013
+    person:nisn         "9900040414" ;
+    person:namaSekolah  "SMAN 1 Kuningan" ;
+    person:namaSiswa    "Rivaldi Bimantara" ;
+    person:jk           "Laki - Laki" ;
+    person:ttl          "Palembang, 10 Januari 2001" ;
+    person:rtsSatu      "80.67" ;
+    person:rtsDua       "81.33" ;
+    person:rtsTiga      "83.33" ;
+    person:rtsEmpat     "85.83" ;
+    person:rtsLima      "87.77" ;
+    person:jumlahRtn    "83.79" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A014
+    person:nisn         "9900043444" ;
+    person:namaSekolah  "SMAN 1 Kuningan" ;
+    person:namaSiswa    "Nadya Sylvha Chairin" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Bandung, 9 Mei 2001" ;
+    person:rtsSatu      "88.33" ;
+    person:rtsDua       "85.85" ;
+    person:rtsTiga      "86.67" ;
+    person:rtsEmpat     "87.83" ;
+    person:rtsLima      "89.67" ;
+    person:jumlahRtn    "87.67" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A015
+    person:nisn         "9900046474" ;
+    person:namaSekolah  "SMAN 1 Kuningan" ;
+    person:namaSiswa    "Khezia Egidia Panjaitan" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Yogyakarta, 1 Januari 2001" ;
+    person:rtsSatu      "80.33" ;
+    person:rtsDua       "83.67" ;
+    person:rtsTiga      "85.83" ;
+    person:rtsEmpat     "81.33" ;
+    person:rtsLima      "87.67" ;
+    person:jumlahRtn    "83.77" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A016
+    person:nisn         "9900049505" ;
+    person:namaSekolah  "SMAN 3 Kuningan" ;
+    person:namaSiswa    "Titi Sulastri" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Jakarta, 1 Maret 2001" ;
+    person:rtsSatu      "80.83" ;
+    person:rtsDua       "80.33" ;
+    person:rtsTiga      "82.67" ;
+    person:rtsEmpat     "80.67" ;
+    person:rtsLima      "81.83" ;
+    person:jumlahRtn    "81.27" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A017
+    person:nisn         "9900052535" ;
+    person:namaSekolah  "SMAN ITUS Kuningan" ;
+    person:namaSiswa    "Sulthan Farhanuddin" ;
+    person:jk           "Laki - Laki" ;
+    person:ttl          "Surpersonaya, 17 Agustus 2001" ;
+    person:rtsSatu      "86.67" ;
+    person:rtsDua       "83.33" ;
+    person:rtsTiga      "82.67" ;
+    person:rtsEmpat     "84.00" ;
+    person:rtsLima      "85.83" ;
+    person:jumlahRtn    "84.50" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+
+id:A018
+    person:nisn         "9900055565" ;
+    person:namaSekolah  "SMAN Al Multazam Kuningan" ;
+    person:namaSiswa    "Fitriana Dwi Putri" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Bandung, 28 September 2001" ;
+    person:rtsSatu      "81.00" ;
+    person:rtsDua       "85.50" ;
+    person:rtsTiga      "83.67" ;
+    person:rtsEmpat     "84.33" ;
+    person:rtsLima      "89.67" ;
+    person:jumlahRtn    "84.83" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A019
+    person:nisn         "9900058596" ;
+    person:namaSekolah  "SMAN 2 Kuningan" ;
+    person:namaSiswa    "Bayu Aji Waladdin" ;
+    person:jk           "Laki - Laki" ;
+    person:ttl          "Banyuwangi, 1 November 2001" ;
+    person:rtsSatu      "83.50" ;
+    person:rtsDua       "82.67" ;
+    person:rtsTiga      "85.00" ;
+    person:rtsEmpat     "86.83" ;
+    person:rtsLima      "88.33" ;
+    person:jumlahRtn    "85.27" ;
+    person:keterangan   "Tidak Memenuhi" .
+
+id:A020
+    person:nisn         "9900061626" ;
+    person:namaSekolah  "SMAN Al Multazam Kuningan" ;
+    person:namaSiswa    "Mitha Amanda Putri" ;
+    person:jk           "Perempuan" ;
+    person:ttl          "Yogyakarta, 28 Agustus 2001" ;
+    person:rtsSatu      "82.83" ;
+    person:rtsDua       "83.00" ;
+    person:rtsTiga      "85.67" ;
+    person:rtsEmpat     "88.83" ;
+    person:rtsLima      "87.67" ;
+    person:jumlahRtn    "85.60" ;
+    person:keterangan   "Tidak Memenuhi" .
